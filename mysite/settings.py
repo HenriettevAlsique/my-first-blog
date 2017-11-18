@@ -25,7 +25,7 @@ SECRET_KEY = '64jvpe5@1ihsh6j%g=n7_akg2!vq3yg&zvj$_h&bu6%8qa(gt('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["intaeger.pythonanywhere.com"]
+ALLOWED_HOSTS = ["intaeger.pythonanywhere.com","127.0.0.1"]
 
 
 # Application definition
